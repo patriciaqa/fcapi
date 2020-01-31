@@ -1,0 +1,1 @@
+instale "gem install httparty"
